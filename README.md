@@ -11,7 +11,7 @@ These are my public Python projects. They include a [Soundrop royalty report gen
 ### [CompMatSciTools](https://github.com/wapisani/CompMatSciTools)
 A collection of tools meant to make various tasks easier when performing computational materials science research with the open-source molecular dynamics (MD) code [LAMMPS](https://www.lammps.org). Note: This repo is missing a lot of my recent scripts. I'm in the process of adding them to the repo.
 
-### [PhD](https://github.com/wapisani/PhD/tree/master)
+### [PhD](https://github.com/wapisani/PhD)
 This repository contains a portion of the many, many scripts I have written and data files I have generated over the length of my PhD at [Michigan Tech](https://mtu.edu).
 
 ### [Advent of Code (AoC)](https://github.com/wapisani/AoC)
