@@ -1,6 +1,6 @@
 ## A lifelong learner with a passion for solving problems using computers.
 
-Hi! My name is Will Pisani. My go-to programming languages are Python and Julia, but I am also skilled in BASH and R. I have some experience with SQL, C++, FORTRAN, and MATLAB. I am familiar with HTML and CSS; I coded most of my [website](https://will.pisani.me) from scratch with a template from [W3.CSS](https://www.w3schools.com/w3css/w3css_templates.asp) as a base. 
+Hi! My name is Will Pisani. My go-to programming languages are Python and Julia, but I am also skilled in BASH and R. I have some experience with SQL and MATLAB. I am familiar with HTML and CSS; I coded most of my [website](https://will.pisani.me) from scratch with a template from [W3.CSS](https://www.w3schools.com/w3css/w3css_templates.asp) as a base. 
 
 Please check out my repositories!
 
