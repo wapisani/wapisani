@@ -4,6 +4,9 @@ Hi! My name is Will Pisani. My go-to programming languages are Python and Julia,
 
 Please check out my repositories!
 
+### [ElasticMD](https://github.com/wapisani/ElasticMD)
+ElasticMD is a Python package for computing elastic moduli from stress-strain data generated from a LAMMPS simulation. The main feature of this software is the two GUIs for computing Young's modulus and Poisson's ratios, and shear modulus.
+
 ### [public-pyprojects](https://github.com/wapisani/public-pyprojects)
 
 These are my public Python projects. They include a [Soundrop royalty report generator](https://github.com/wapisani/public-pyprojects/tree/main/Soundrop) (pandas, matplotlib, HTML/CSS), command line [minesweeper](https://github.com/wapisani/public-pyprojects/tree/main/Minesweeper), a GUI [Wordle assistant/solver](https://github.com/wapisani/public-pyprojects/tree/main/Wordle_Solver) (PySimpleGUI), and a [web scraper](https://github.com/wapisani/public-pyprojects/tree/main/APoD_Scraper) for downloading Astronomy Picture of the Day (requests, bs4).
