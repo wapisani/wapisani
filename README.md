@@ -20,7 +20,9 @@ This repository contains a portion of the many, many scripts I have written and 
 ### [Advent of Code (AoC)](https://github.com/wapisani/AoC)
 Since 2020, I've enjoyed trying to solve the Christmas puzzles of [Advent of Code](https://adventofcode.com/) with my friends. 
 
-The views and opinions expressed on this website and blog are entirely my own and do not necessarily represent the positions, strategies, or views of the U.S. Army Corps of Engineers, the Department of Defense, or the United States Government.
+### ⚠️ Disclaimer
+The code, projects, benchmarks, and opinions found across my personal repositories and profile are entirely my own. They do not represent the positions, strategies, or endorsements of the U.S. Army Corps of Engineers, the Department of Defense, or the United States Government.
+
 
 <!--
 **wapisani/wapisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
